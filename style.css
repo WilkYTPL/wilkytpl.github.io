@@ -1,0 +1,69 @@
+/* Ustawienia ogólne */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9e3e3;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* Kontener */
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Nagłówki i przyciski */
+h1 {
+    color: #e91e63;
+}
+
+p {
+    color: #333;
+    font-size: 1.2em;
+}
+
+button {
+    background-color: #e91e63;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #d81b60;
+}
+
+/* Ukryta wiadomość */
+.hidden {
+    display: none;
+}
+
+.show {
+    display: block;
+    font-size: 1.5em;
+    color: #ff4081;
+    margin-top: 20px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Animacja */
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@media (max-width: 768px) {
+    body {
+        height: auto; /* Usunięcie wymogu pełnej wysokości dla lepszego przewijania */
+        padding: 20px;
+    }
