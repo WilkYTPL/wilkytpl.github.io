@@ -1,0 +1,70 @@
+/*body*/
+body {
+    background-image: url(./img/background.png);
+}
+
+/*Top of the site*/
+.christmasTextBox {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.happyChristmas {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.begginingLine {
+    width: auto;
+    height: 0.1px;
+    border-width: 5px;
+}
+
+/*Timer*/
+.timerDiv {
+    width: 30rem;
+    background-color: #FFFDD0;
+    text-align: center;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+/*Changelog*/
+.changeLog {
+    width: 30rem;
+    background-color: darkgray;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cl_title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.showChangeLog {
+    border-radius: 7px;
+    background-color: darkgray;
+    border: 2px solid #4b4040;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    cursor: pointer;
+    height: 25px;
+}
+.showChangeLog:hover {
+    background-color: #4b4040;
+}
+
+.hidden {
+    display: none;
+}
+.show {
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
