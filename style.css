@@ -25,7 +25,7 @@ body {
 
 /*Timer*/
 .timerDiv {
-    width: auto;
+    width: 23rem;
     background-color: #FFFDD0;
     text-align: center;
     border-radius: 15px;
