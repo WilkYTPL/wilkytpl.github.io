@@ -1,4 +1,4 @@
-var countDownUp = new Date("04.06.2024 11:00").getTime();
+var countDownUp = new Date("06.04.2024 11:00").getTime();
 
 var x = setInterval(function() {
 
