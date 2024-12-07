@@ -70,7 +70,7 @@ body {
 .firstReason {
     background-color: #DFF9FB;
     width: 16rem;
-    height: 12rem;
+    height: 14rem;
     border-radius: 15px;
     text-align: center;
     float: left;
@@ -85,7 +85,7 @@ body {
 .firstMusic {
     background-color: #DFF9FB;
     width: 16rem;
-    height: 12rem;
+    height: 14rem;
     border-radius: 15px;
     margin: 0 auto;
     font-size: 16px;
@@ -94,7 +94,7 @@ body {
 .firstHowLongWeAre {
     background-color: #DFF9FB;
     width: 16rem;
-    height: 12rem;
+    height: 14rem;
     border-radius: 15px;
     text-align: center;
 }
@@ -112,13 +112,13 @@ body {
 }
 .secondChristmas {
     width: 16rem;
-    height: 12rem;
+    height: 14rem;
     border-radius: 15px;
     background-color: #DFF9FB;
 }
 .secondPersonal {
     width: 16rem;
-    height: 12rem;
+    height: 14rem;
     border-radius: 15px;
     background-color: #DFF9FB;
     margin-left: 15px;
@@ -133,13 +133,13 @@ body {
 }
 .thirdHappy {
     width: 16rem;
-    height: 12rem;
+    height: 14rem;
     border-radius: 15px;
     background-color: #DFF9FB;
 }
 .thirdPersonal {
     width: 16rem;
-    height: 12rem;
+    height: 14rem;
     border-radius: 15px;
     background-color: #DFF9FB;
     margin-left: 15px;
