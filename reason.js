@@ -1,7 +1,7 @@
 const reasons = [
     "Because you listen to me",
     "Because you never left me",
-    "Just because I like you :3",
+    "Just because I love you :3",
     "For being here for me",
     "For letting me be your friend (now bf :3)",
     "Because I feel like it",
